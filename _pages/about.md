@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page. I'm a researcher (and developer) based in Salvador, Bahia, Brazil. I have a degree in Computer Engineering and a Masters in Computer Graphics. 
+[This page is still in development...]
 
-Currently employed as a research and development engineer at CIMATEC. My hobbies are drawing, playing guitar, working out and computer graphics, ofc.
+Welcome to my space.
 
-Page is still in development. Check my Portfolio.
+I'm Vítor, a Computer Graphics researcher (and developer) based in Salvador, Bahia, Brazil.
+My interests in the field of CG are many, but primarily code optimization, indirect lighting and geometry processing. Currently employed as a research and development engineer at CIMATEC's High Performance Computing Center, I also have strong skills in multiprocessor and multithreaded environments, as well as supercomputers. I also have professional experience with Data Science and Deep Learning. 
+
+My hobbies are video games, drawing, playing guitar, working out and (ofc) computer graphics. I also teach japanese as a volunteer teacher at the Japanese Language School of Salvador (Bahia/Brazil).
+
+Check my CV and Portfolio if you're interested in hiring me. :D
+
