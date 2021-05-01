@@ -11,6 +11,9 @@ The project took approximately 3 years and I developed my take on a screen-space
 - Compute Shader Based K-means clustering of Virtual Point Lights
 - Paraboloid Shadow Maps computed with geometry Shaders
 - A general tone-mapping operator (Reinhart, 2012)
+
+title: "Screen-Space VPL Propagation for indirect diffuse illumination"
+excerpt: "My master's thesis, awarded  best paper (SIBGRAPI 2020). My take on a screen-space but viewer independent diffuse interreflection algorithm. Repo: https://github.com/KareshiKraise/GI/tree/SSVP"
 collection: portfolio
 
 ---
@@ -21,7 +24,11 @@ Github: https://github.com/KareshiKraise/Vulkan_Studies
 - Studies and experiments still in progress, based on SaschaWillems code samples, vulkan-tutorial and Graham Sellers’ Official Vulkan Programming Guide.
 - Currently designing a material system and experimenting with descriptors layout configuration.
 - Eventually to becomea full port of my thesis (top of this document) to the Vulkan API.
+
+title: "Toy (Study) Vulkan Renderer"
+excerpt: "A study project to learn the Vulkan API, eventually to become a full port of my master's work. Repo: https://github.com/KareshiKraise/Vulkan_Studies"
 collection: portfolio
+
 ---
 
 ## During my career, I implemented many state-of-the-art and well established CG techniques from research papers and industry references:
@@ -36,7 +43,11 @@ Github: https://github.com/KareshiKraise/DeepGBuffer
 
 - Implemented the layered buffers using Geometry Shaders
 - Implemented the Screen-Space Ambient Occlusion method proposed by the paper as well, for further comparisons between SSAO techniques.
+
+title: "Deep G-Buffer for stable global illumination"
+excerpt: "Implementation of Morgan McGuire's Deep G-Buffer paper. Repo: https://github.com/KareshiKraise/DeepGBuffer"
 collection: portfolio
+
 ---
 
 ## Order-Independent-Transparency
@@ -45,7 +56,11 @@ collection: portfolio
 
 - Github: https://github.com/KareshiKraise/Order-Independent-Transparency/tree/main
 - Made use of CUDA and OpenGL interoperability.
+
+title: "Order Independent Transparency technique implementation"
+excerpt: "Implementation of the paper 'Memory-Efficient Order-Independent Transparency with Dynamic Fragment Buffer', using CUDA+OpenGL interoperability. Repo: https://github.com/KareshiKraise/Order-Independent-Transparency/"
 collection: portfolio
+
 ---
 
 ## Mesh-Colors
@@ -53,21 +68,33 @@ collection: portfolio
 
 - url: http://www.cemyuksel.com/research/meshcolors/meshcolors_techreport.pdf
 - Github: https://github.com/KareshiKraise/MeshColors
+
+title: "Vertex Based Mesh Coloring"
+excerpt: "Implementation of the paper 'Mesh Colors', from Cem Youksel. Repo: https://github.com/KareshiKraise/MeshColors"
 collection: portfolio
+
 ---
 
 ## Parametric Curves based Modelling Prototype
 
 - Github: https://github.com/KareshiKraise/Prototype3DModelling
 - Developed a prototype 3D mesh modeling application based on bezier curves and solids of revolution in OpenGL.
+
+title: "Parametric Curves based Modelling Prototype"
+excerpt: "Developed a prototype 3D mesh modeling application based on bezier curves and solids of revolution in OpenGL. Repo: https://github.com/KareshiKraise/Prototype3DModelling"
 collection: portfolio
+
 ---
 
 ## CPU RayTracer
 - Github: https://github.com/KareshiKraise/CPURayTracer
 - Implementation of basic ray-tracing algorithms and experimented with several optimization techniques.
 - The algorithm was re-engineered to run on compute shaders.
+
+title: "Toy CPU RayTracer"
+excerpt: "Implementation of basic ray-tracing algorithms and experimented with several optimization techniques. Link to repo: https://github.com/KareshiKraise/CPURayTracer"
 collection: portfolio
+
 ---
 
 ### Several rendering techniques 
@@ -80,7 +107,11 @@ collection: portfolio
 
 -  Cel-Shading, POM and Relief Mapping at:
 https://github.com/KareshiKraise/CartoonRendering
+
+title: "Non Photorealistic rendering techniques"
+excerpt: "Implementation of several nonphotorealistic rendering techniques (cel shading, cross hatching), link to repo: https://github.com/KareshiKraise/CartoonRendering"
 collection: portfolio
+
 ---
 
 ## Image Processing and Computer Vision
@@ -89,7 +120,11 @@ collection: portfolio
 - url: https://www.kyprianidis.com/p/tpcg2008/
 - Github: https://github.com/KareshiKraise/StructuredAdaptiveFiltering
 - In C++ with the OpenCV library
+
+title: "Image Processing and Computer Vision"
+excerpt: "implemented the paper:  Image Abstraction by Structure Adaptive Filtering, Kyprianidis 2008. Link to repo: https://github.com/KareshiKraise/StructuredAdaptiveFiltering"
 collection: portfolio
+
 ---
 
 
