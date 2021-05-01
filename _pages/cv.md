@@ -49,11 +49,3 @@ Languages
 * English  
 * Japanese - (JLPT N1 Certified)
 * Portuguese
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
