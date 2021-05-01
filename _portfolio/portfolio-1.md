@@ -1,6 +1,6 @@
 ---
 title: "Screen-Space VPL Propagation for indirect diffuse illumination"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: The project took approximately 3 years where I developed my take on a screen-space indirect lighting algorithm for diffuse inter-reflections. The project itself is composed of many different algorithms implemented from other famous papers and consists of multiple passes over the GPU rasterization pipeline.
 collection: portfolio
 ---
 
