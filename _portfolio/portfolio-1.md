@@ -1,4 +1,4 @@
-
+collection: portfolio
 ## Screen-Space VPL Propagation for indirect diffuse illumination (Msc Thesis)
 
 Github: https://github.com/KareshiKraise/GI/tree/SSVP
