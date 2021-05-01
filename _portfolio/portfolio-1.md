@@ -1,4 +1,4 @@
-collection: portfolio
+
 ## Screen-Space VPL Propagation for indirect diffuse illumination (Msc Thesis)
 
 Github: https://github.com/KareshiKraise/GI/tree/SSVP
@@ -11,6 +11,7 @@ The project took approximately 3 years and I developed my take on a screen-space
 - Compute Shader Based K-means clustering of Virtual Point Lights
 - Paraboloid Shadow Maps computed with geometry Shaders
 - A general tone-mapping operator (Reinhart, 2012)
+collection: portfolio
 
 ---
 
@@ -20,7 +21,7 @@ Github: https://github.com/KareshiKraise/Vulkan_Studies
 - Studies and experiments still in progress, based on SaschaWillems code samples, vulkan-tutorial and Graham Sellers’ Official Vulkan Programming Guide.
 - Currently designing a material system and experimenting with descriptors layout configuration.
 - Eventually to becomea full port of my thesis (top of this document) to the Vulkan API.
-
+collection: portfolio
 ---
 
 ## During my career, I implemented many state-of-the-art and well established CG techniques from research papers and industry references:
@@ -35,7 +36,7 @@ Github: https://github.com/KareshiKraise/DeepGBuffer
 
 - Implemented the layered buffers using Geometry Shaders
 - Implemented the Screen-Space Ambient Occlusion method proposed by the paper as well, for further comparisons between SSAO techniques.
-
+collection: portfolio
 ---
 
 ## Order-Independent-Transparency
@@ -44,7 +45,7 @@ Github: https://github.com/KareshiKraise/DeepGBuffer
 
 - Github: https://github.com/KareshiKraise/Order-Independent-Transparency/tree/main
 - Made use of CUDA and OpenGL interoperability.
-
+collection: portfolio
 ---
 
 ## Mesh-Colors
@@ -52,21 +53,21 @@ Github: https://github.com/KareshiKraise/DeepGBuffer
 
 - url: http://www.cemyuksel.com/research/meshcolors/meshcolors_techreport.pdf
 - Github: https://github.com/KareshiKraise/MeshColors
-
+collection: portfolio
 ---
 
 ## Parametric Curves based Modelling Prototype
 
 - Github: https://github.com/KareshiKraise/Prototype3DModelling
 - Developed a prototype 3D mesh modeling application based on bezier curves and solids of revolution in OpenGL.
-
+collection: portfolio
 ---
 
 ## CPU RayTracer
 - Github: https://github.com/KareshiKraise/CPURayTracer
 - Implementation of basic ray-tracing algorithms and experimented with several optimization techniques.
 - The algorithm was re-engineered to run on compute shaders.
-
+collection: portfolio
 ---
 
 ### Several rendering techniques 
@@ -79,7 +80,7 @@ Github: https://github.com/KareshiKraise/DeepGBuffer
 
 -  Cel-Shading, POM and Relief Mapping at:
 https://github.com/KareshiKraise/CartoonRendering
-
+collection: portfolio
 ---
 
 ## Image Processing and Computer Vision
@@ -88,7 +89,7 @@ https://github.com/KareshiKraise/CartoonRendering
 - url: https://www.kyprianidis.com/p/tpcg2008/
 - Github: https://github.com/KareshiKraise/StructuredAdaptiveFiltering
 - In C++ with the OpenCV library
-
+collection: portfolio
 ---
 
 
