@@ -4,7 +4,7 @@
 Github: https://github.com/KareshiKraise/GI/tree/SSVP
 Paper published at:  https://ieeexplore.ieee.org/document/9265972/ (best paper award)
 
-The project took approximately 3 years and I developed my take on a screen-space indirect lighting algorithm for diffuse inter-reflections. The project itself is composed of many different algorithms implemented from other famous papers and consists of multiple passes over the GPU rasterization pipeline.
+The project took approximately 3 years and I developed my take on a screen-space indirect lighting algorithm for diffuse inter-reflections.<br /> The project itself is composed of many different algorithms<br /> implemented from other famous papers and consists of multiple passes over the GPU rasterization pipeline.
 
 - Shadow Maps 
 - Reflective Shadow Maps,  importance sampled in a view adaptive manner based on Ritschel, 2009 
