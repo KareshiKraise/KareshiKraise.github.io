@@ -1,5 +1,5 @@
----
-# Screen-Space VPL Propagation for indirect diffuse illumination (Msc Thesis)
+
+## Screen-Space VPL Propagation for indirect diffuse illumination (Msc Thesis)
 
 Github: https://github.com/KareshiKraise/GI/tree/SSVP
 Paper published at:  https://ieeexplore.ieee.org/document/9265972/ (best paper award)
@@ -50,8 +50,8 @@ Github: https://github.com/KareshiKraise/DeepGBuffer
 ## Mesh-Colors
 ### Prototype based on the paper: “Mesh Colors” from Cem Youksel 2008
 
--url: http://www.cemyuksel.com/research/meshcolors/meshcolors_techreport.pdf
--Github: https://github.com/KareshiKraise/MeshColors
+- url: http://www.cemyuksel.com/research/meshcolors/meshcolors_techreport.pdf
+- Github: https://github.com/KareshiKraise/MeshColors
 
 ---
 
@@ -63,7 +63,7 @@ Github: https://github.com/KareshiKraise/DeepGBuffer
 ---
 
 ## CPU RayTracer
- - Github: https://github.com/KareshiKraise/CPURayTracer
+- Github: https://github.com/KareshiKraise/CPURayTracer
 - Implementation of basic ray-tracing algorithms and experimented with several optimization techniques.
 - The algorithm was re-engineered to run on compute shaders.
 
@@ -71,7 +71,7 @@ Github: https://github.com/KareshiKraise/DeepGBuffer
 
 ### Several rendering techniques 
 
-- Normal-mapping
+-  Normal-mapping
 -  Parallax Occlusion Mapping 
 -  Relief-mapping
 -  Non photo-realistic rendering (cel shading and hatching) 
@@ -85,8 +85,8 @@ https://github.com/KareshiKraise/CartoonRendering
 ## Image Processing and Computer Vision
 
 - implemented the paper:  “Image Abstraction by Structure Adaptive Filtering” Kyprianidis 2008.
-url: https://www.kyprianidis.com/p/tpcg2008/
-Github: https://github.com/KareshiKraise/StructuredAdaptiveFiltering
+- url: https://www.kyprianidis.com/p/tpcg2008/
+- Github: https://github.com/KareshiKraise/StructuredAdaptiveFiltering
 - In C++ with the OpenCV library
 
 ---
