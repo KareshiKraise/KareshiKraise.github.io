@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Graphics Doodling"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Vítor Moraes Aranha"
-description              : &description ""
-url                      : https://kareshikraise..github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/KareshiKraise/KareshiKraise.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,13 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-#twitter:
-#  username               : &twitter
-#facebook:
-#  username               :
-#  app_id                 :
-#  publisher              :
-#og_image                 :  # Open Graph/Twitter default site image
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,41 +80,41 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vítor Moraes Aranha"
-  avatar           : "sakura.jpg"
-  bio              : "Bsc. Computer Engineering\nMsc. Computer Graphics. Research and Development Engineer"
-  location         : "Brazil"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  #pubmed           : ""
-  #googlescholar    : ""
-  email            : "vitormoraesaranha@gmail.com"
-  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  #uri              :
-  #bitbucket        :
-  #codepen          :
-  #dribbble         :
-  #flickr           :
-  #facebook         :
-  #foursquare       :
-  github           : "https://github.com/KareshiKraise"
-  #google_plus      :
-  #keybase          :
-  #instagram        :
-  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  #lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vitor-m-aranha-cg/" 
-  #orcid            : ""
-  #pinterest        :
-  #soundcloud       :
-  #stackoverflow    : # http://stackoverflow.com/users/123456/username
-  #steam            :
-  #tumblr           :
-  #twitter          : ""
-  #vine             :
-  #weibo            :
-  #xing             :
-  #youtube          :
-  #wikipedia        :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Brazil/Brasilia # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
