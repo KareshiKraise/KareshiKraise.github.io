@@ -17,5 +17,4 @@ My interests in the field of CG are many, but primarily in Light Transport. In m
 
 My hobbies are video games, drawing, playing guitar, working out and (ofc) computer graphics. I also teach japanese as a volunteer teacher at the Japanese Language School of Salvador (Bahia/Brazil).
 
-Check my CV and Portfolio if you're interested in hiring me. :D
 
